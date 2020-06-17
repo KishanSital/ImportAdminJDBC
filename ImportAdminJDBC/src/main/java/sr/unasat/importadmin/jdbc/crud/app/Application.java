@@ -42,10 +42,10 @@ public class Application {
 
 //		 prdRepo.insertNewProduct(new Product("Alcohol"));
 //		 custRepo.insertNewCustomer(new Customer("lisa","kwatta3","12345678"));
-//		 prOrdRepo.insertNewProductOrder(new Product_order(formatDateTime, 6, 5));
-//		 prOrdRepo.insertNewProductOrder(new Product_order(formatDateTime, 2, 4));
-//		 prOrdRepo.insertNewProductOrder(new Product_order(formatDateTime, 3, 4));
-//		 prOrdRepo.insertNewProductOrder(new Product_order(formatDateTime, 4, 4));
+//		 prOrdRepo.insertNewProductOrder(new ProductOrder(formatDateTime, 6, 5));
+//		 prOrdRepo.insertNewProductOrder(new ProductOrder(formatDateTime, 2, 4));
+//		 prOrdRepo.insertNewProductOrder(new ProductOrder(formatDateTime, 3, 4));
+//		 prOrdRepo.insertNewProductOrder(new ProductOrder(formatDateTime, 4, 4));
 
 //		 Update statements
 //		 prdRepo.UpdateProduct(new Product("Vitamine C",5));
